@@ -10,7 +10,7 @@
 👉 Upload as file from any HTTP link
 
 ### Installation
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templte=https://github.com/maxxa233/URL-UPLOADER-TG)
 #### The Easiest Way
 
 **USE OUR BOT 😍**
